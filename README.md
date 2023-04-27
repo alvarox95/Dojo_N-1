@@ -21,3 +21,7 @@ Crear un semaforo y con funcionalidad para personas no videntes
 ## Funcion Principal
 
 Esta funcion se encarga de prender los leds de forma que simule un semaforo con opcion para personas no videntes
+
+
+## :rage1: Link al proyecto
+- [proyecto](https://www.tinkercad.com/things/ajZCUOSbUis-ingenious-krunk-hillar/editel?sharecode=HyMGJVDGCCbBQA1KGuteHUzsFk9MEPF2FEtG7YAPzyA)
