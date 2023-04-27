@@ -22,7 +22,7 @@ Crear un semaforo y con funcionalidad para personas no videntes
 
 El semáforo consta de tres estados: verde, amarillo y rojo. Cada estado dura un cierto tiempo, que se puede modificar a través de las variables tiempoVerde, tiempoAmarillo y tiempoRojo. Durante cada estado, los LEDs correspondientes se encienden y se apagan, y el zumbador emite un pitido.
 
-##Funciones utilizadas
+## Funciones utilizadas
 El código utiliza dos funciones:
 
 ~~~ C (lenguaje en el que esta escrito)
