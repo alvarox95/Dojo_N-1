@@ -24,4 +24,4 @@ Esta funcion se encarga de prender los leds de forma que simule un semaforo con 
 
 
 ## :rage1: Link al proyecto
-- [proyecto](https://www.tinkercad.com/things/ajZCUOSbUis-ingenious-krunk-hillar/editel?sharecode=HyMGJVDGCCbBQA1KGuteHUzsFk9MEPF2FEtG7YAPzyA)
+- [Proyecto](https://www.tinkercad.com/things/ajZCUOSbUis-ingenious-krunk-hillar/editel?sharecode=HyMGJVDGCCbBQA1KGuteHUzsFk9MEPF2FEtG7YAPzyA)
